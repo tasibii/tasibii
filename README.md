@@ -7,9 +7,3 @@
 - 💬 Ask me about Solidity! And many more like Rust, Sway, zK ...
 - 📫 How to reach me: tasibii.web3@gmail.com
 - 🌴 Loves Nintendo's games, fashion, and composing music...
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tasibii&show_icons=true&theme=bear&hide_border=true" width="376">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tasibii&theme=bear&hide_border=true" width="400">
-</p>

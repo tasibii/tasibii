@@ -5,10 +5,15 @@ ABOUT
 - Age: 2x
 - Mail: tasibii.web3@gmail.com
 
-SKILLS
-- Rust
-- Foundry
+LANGS
 - Solidity
 - JavaScript
+- Typescript 
+- Rust
+
+OTHERS
+- Viem
+- Foundry
+- Ether.js
 
 -tasibii
